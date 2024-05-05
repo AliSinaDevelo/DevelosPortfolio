@@ -67,13 +67,7 @@
                 <h4 class="relative z-9">Get in touch &rarr;</h4>
             </button>
         </div>
-        <div class="relative shadow-2xl grid place-items-center">
-            <img
-                src={"images/profile.png"}
-                alt="Zetane Engine"
-                class="object-cover z-[2] max-h-[70vh]"
-            />
-        </div>
+        
         <!-- <div  class="flex p-0.5 relative max-w-[700px] w-full mx-auto">
             <div
                 class="absolute inset-0 overflow-hidden rounded-md flex items-center justify-center"
