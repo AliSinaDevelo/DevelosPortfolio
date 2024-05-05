@@ -7,6 +7,6 @@ const config = {
   },
   preprocess: vitePreprocess()
 };
-export default config;import adapter from '@sveltejs/adapter-auto';
+export default config;
 
 
