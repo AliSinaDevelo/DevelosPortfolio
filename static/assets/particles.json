@@ -1,17 +1,17 @@
 {
   "particles": {
     "number": {
-      "value": 80,
+      "value": 106,
       "density": {
         "enable": true,
-        "value_area": 800
+        "value_area": 160.340724038582
       }
     },
     "color": {
       "value": "#ffffff"
     },
     "shape": {
-      "type": "circle",
+      "type": "polygon",
       "stroke": {
         "width": 0,
         "color": "#000000"
@@ -36,7 +36,7 @@
       }
     },
     "size": {
-      "value": 8.0170362019291,
+      "value": 3,
       "random": true,
       "anim": {
         "enable": false,
