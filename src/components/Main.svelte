@@ -56,7 +56,7 @@
                 <span class="poppins text-violet-400">Developer</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
-                Desciption
+                As a <span class="poppins text-violet-400">software developer</span> and aspiring <span class="poppins text-violet-400">computer scientist</span>, I am deeply passionate about exploring the realms theory and practice. My interests include <span class="poppins text-violet-400">AI</span> , <span class="poppins text-violet-400">automated reasoning</span>, <span class="poppins text-violet-400">soft computing</span>, and <span class="poppins text-violet-400">NLP</span>. I thrive on pushing tech boundaries through research and love playing violin in my downtime. Actively contributing to open-source projects as another interest of mine, I aim to continuosly learn and shape the future of intelligent systems by blending theory with practice.
             </p>
             <button
                 class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950"
