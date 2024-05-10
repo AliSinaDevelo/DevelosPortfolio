@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.4)  10 MAY 2024 05:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.4)  10 MAY 2024 06:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -174,9 +174,9 @@ tter compatibility patches
 Package: moderncvcolorblue 2022-02-21 v2.3.1 modern curriculum vitae and letter
  color scheme: blue
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/moderncv/moderncvstylecasual.sty
-Package: moderncvstylecasual 2022-02-21 v2.3.1 modern curriculum vitae and lett
-er style scheme: casual
+(/usr/local/texlive/2024/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
+Package: moderncvstyleclassic 2022-02-21 v2.3.1 modern curriculum vitae and let
+ter style scheme: classic
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/moderncv/moderncviconssymbols.sty
 Package: moderncviconssymbols 2021-12-12 v2.2.0 modern curriculum vitae icons s
@@ -483,14 +483,11 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/moderncv/moderncvheadii.sty
-Package: moderncvheadii 2022-02-21 v2.3.1 modern curriculum vitae and letter he
-ader variant: 2
-\makeheaddetailsbox=\box66
-\makeheaddetailstempbox=\box67
-\makeheaddetailswidth=\skip69
-\makeheaddetailsboxwidth=\skip70
-\quotewidth=\skip71
+(/usr/local/texlive/2024/texmf-dist/tex/latex/moderncv/moderncvheadi.sty
+Package: moderncvheadi 2022-02-21 v2.3.1 modern curriculum vitae and letter hea
+der variant: 1
+\quotewidth=\skip69
+\makecvheadnamewidth=\skip70
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/moderncv/moderncvbodyi.sty
 Package: moderncvbodyi 2022-02-21 v2.3.1 modern curriculum vitae and letter bod
@@ -502,16 +499,16 @@ er skill matrix
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip72
+\multirow@colwidth=\skip71
 \multirow@cntb=\count289
-\multirow@dima=\skip73
+\multirow@dima=\skip72
 \bigstrutjot=\dimen197
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/arydshln/arydshln.sty
 Package: arydshln 2019/02/21 v1.76 
 \dashlinedash=\dimen198
 \dashlinegap=\dimen199
-\adl@box=\box68
+\adl@box=\box66
 \adl@height=\dimen256
 \adl@heightsave=\dimen257
 \adl@depth=\dimen258
@@ -530,48 +527,40 @@ Package: arydshln 2019/02/21 v1.76
 \adl@everyvbox=\toks34
 \adl@LTpagetotal=\dimen261
 )
-\cvSkill@RectangleSize=\skip74
+\cvSkill@RectangleSize=\skip73
 \my@repeat@count=\count300
-\cvskill@width=\skip75
-\cvskill@descriptorwidth=\skip76
-\cvskill@experiencewidth=\skip77
-\skillmatrix@columnwidth=\skip78
-\skillmatrix@commentwidth=\skip79
-\skillmatrix@padding=\skip80
-\skillmatrix@hintscolumnwidth=\skip81
-\skillmatrix@bodylength=\skip82
-\cvskilllegend@leftdescriptorwidth=\skip83
-\cvskilllegend@rightdescriptorwidth=\skip84
-\skilllegend@hintscolumnwidth=\skip85
-\skilllegend@padding=\skip86
-\skilllegend@bodylength=\skip87
-\separatorrulewidth=\skip88
+\cvskill@width=\skip74
+\cvskill@descriptorwidth=\skip75
+\cvskill@experiencewidth=\skip76
+\skillmatrix@columnwidth=\skip77
+\skillmatrix@commentwidth=\skip78
+\skillmatrix@padding=\skip79
+\skillmatrix@hintscolumnwidth=\skip80
+\skillmatrix@bodylength=\skip81
+\cvskilllegend@leftdescriptorwidth=\skip82
+\cvskilllegend@rightdescriptorwidth=\skip83
+\skilllegend@hintscolumnwidth=\skip84
+\skilllegend@padding=\skip85
+\skilllegend@bodylength=\skip86
+\separatorrulewidth=\skip87
 )
-\hintscolumnwidth=\skip89
-\separatorcolumnwidth=\skip90
-\maincolumnwidth=\skip91
-\doubleitemcolumnwidth=\skip92
-\listitemsymbolwidth=\skip93
+\hintscolumnwidth=\skip88
+\separatorcolumnwidth=\skip89
+\maincolumnwidth=\skip90
+\doubleitemcolumnwidth=\skip91
+\listitemsymbolwidth=\skip92
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
 nput line 48.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd
 )
-\listitemcolumnwidth=\skip94
-\listdoubleitemcolumnwidth=\skip95
-\baseletterheight=\skip96
-\cvitemwithcommentbox=\box69
-\cvitemwithcommentskilllength=\skip97
-\cvitemwithcommentcommentlength=\skip98
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/moderncv/moderncvfooti.sty
-Package: moderncvfooti 2022-02-21 v2.3.1 modern curriculum vitae and letter foo
-ter variant: 1
-\footwidth=\skip99
-\footbox=\box70
-\foottempbox=\box71
-\footboxwidth=\skip100
-))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+\listitemcolumnwidth=\skip93
+\listdoubleitemcolumnwidth=\skip94
+\baseletterheight=\skip95
+\cvitemwithcommentbox=\box67
+\cvitemwithcommentskilllength=\skip96
+\cvitemwithcommentcommentlength=\skip97
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -744,37 +733,37 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip101
+\Hy@SectionHShift=\skip98
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 25.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 25.
+Package hyperref Info: Option `breaklinks' set `true' on input line 28.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 28.
  (./Curriculum Vitae.aux)
 \openout1 = `"Curriculum Vitae.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count317
 \scratchdimen=\dimen275
-\scratchbox=\box72
+\scratchbox=\box68
 \nofMPsegments=\count318
 \nofMParguments=\count319
 \everyMPshowfont=\toks38
@@ -792,19 +781,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 25.
-Package microtype Info: Applying patch `item' on input line 25.
-Package microtype Info: Applying patch `toc' on input line 25.
-Package microtype Info: Applying patch `eqnum' on input line 25.
-Package microtype Info: Applying patch `footnote' on input line 25.
-Package microtype Info: Applying patch `verbatim' on input line 25.
+LaTeX Info: Redefining \microtypecontext on input line 28.
+Package microtype Info: Applying patch `item' on input line 28.
+Package microtype Info: Applying patch `toc' on input line 28.
+Package microtype Info: Applying patch `eqnum' on input line 28.
+Package microtype Info: Applying patch `footnote' on input line 28.
+Package microtype Info: Applying patch `verbatim' on input line 28.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 25.
+LaTeX Info: Redefining \showhyphens on input line 28.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -850,58 +839,59 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 Package hyperref Warning: Draft mode on.
 
-Package hyperref Info: Link coloring OFF on input line 25.
-\makecvheadpicturebox=\box73
-\makecvheadpicturewidth=\skip102
-\makecvheadnamebox=\box74
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <38> not available
-(Font)              size <24.88> substituted on input line 27.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--27
-
- []
-
+Package hyperref Info: Link coloring OFF on input line 28.
+\makecvheaddetailsbox=\box69
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 28.
+(Font)              <7> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
+(Font)              <5> on input line 31.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 49.
+nput line 31.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 49.
+nput line 31.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 49.
+ input line 31.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 49.
+n input line 31.
+\makecvheadpicturebox=\box70
+\makecvheaddetailswidth=\skip99
+\makecvheadpicturewidth=\skip100
+\makecvheadnamebox=\box71
 
 
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <34> not available
+(Font)              size <24.88> substituted on input line 31.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 32.
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/loca
-l/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local
-/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/
-texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}]
-(./Curriculum Vitae.aux)
+l/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local
+/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/loca
+l/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
+[2] (./Curriculum Vitae.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -909,17 +899,17 @@ L3 programming layer <2024-02-20>
 
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 13.12pt have occurred.
+(Font)              up to 9.12pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 26772 strings out of 474116
- 514629 string characters out of 5743683
- 1949187 words of memory out of 5000000
- 48666 multiletter control sequences out of 15000+600000
- 566801 words of font info for 84 fonts, out of 8000000 for 9000
+ 26757 strings out of 474116
+ 514042 string characters out of 5743683
+ 1953187 words of memory out of 5000000
+ 48641 multiletter control sequences out of 15000+600000
+ 567001 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,12n,129p,1015b,518s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,13n,129p,1015b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Brands-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fo
 ntawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fon
@@ -929,12 +919,11 @@ ts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/202
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2024/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2024/texmf-d
-ist/fonts/type1/public/cm-super/sfsl1095.pfb>
-Output written on "Curriculum Vitae.pdf" (1 page, 136491 bytes).
+dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on "Curriculum Vitae.pdf" (2 pages, 148059 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26637 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 30733 words of extra memory for PDF output out of 35830 (max. 10000000)
 
