@@ -1,4 +1,3 @@
-```markdown
 # My Portfolio Website
 
 This repository contains the source code for my portfolio website, developed utilizing SvelteKit and Tailwind CSS. The project showcases my professional experience, projects, and skills in a modern and responsive web interface.
@@ -69,7 +68,5 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-```
 
 This README file provides a comprehensive overview of the project, including its structure, installation instructions, usage guidelines, contribution protocols, and licensing information.
-```
