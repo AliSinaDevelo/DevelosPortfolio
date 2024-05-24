@@ -3,19 +3,19 @@
 
     let steps = [
         {
-            name: "Project 1",
+            name: "Quorabust",
             icon: "fa-solid fa-cart-shopping",
             description:
                 "",
         },
         {
-            name: "Project 2",
+            name: "Newsact",
             icon: "fa-solid fa-list-check",
             description:
-                "",
+                " ",
         },
         {
-            name: "Project 3",
+            name: "Chatster",
             icon: "fa-solid fa-diagram-project",
             description:
                 "",
@@ -90,19 +90,27 @@
                 Here are some of my projects
             </h6>
             <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-                Please look into some of <span class="poppins text-violet-400">my work</span> 
+                Please look into some of <span class="poppins text-violet-400"><a href="https://github.com/AliSinaDevelo">my work</a></span> 
             </h3>
         </div>
         
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <Step step={steps[0]}>
-            
+                <p>
+                    Implemented using Python, employing Bag-of-Words (BOW), TFIDF, and XG- Boost algorithms. Quorabust serves as a tool facilitating the discovery of similar Quora questions to aid users in finding pertinent answers. Its functionality aims to streamline the process of locating relevant information within the Quora platform.
+                </p>
             </Step>
             <Step step={steps[1]}>
-                
+                <p>
+                    Developed using Python in conjunction with Scikit-learn. Newsact functions as a machine learning tool engineered to discern between authentic news and misinformation, thus combating the proliferation of fake news.
+                </p>
             </Step>
             <Step step={steps[2]}>
-                
+                <p>
+                    Designed and developed using Go for backend infrastructure management.
+                    Utilized ReactJS for frontend development.
+                    Chatster is a comprehensive real-time chat application equipped with a wide array of features. It serves as a robust framework adaptable for various chat systems within organizational environments.
+                </p>
             </Step>
         </div>
     </section>
