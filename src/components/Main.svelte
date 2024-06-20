@@ -4,19 +4,19 @@
     let steps = [
         {
             name: "Quorabust",
-            icon: "fa-solid fa-cart-shopping",
+            icon: "fa-solid fa-magnifying-glass",
             description:
                 "",
         },
         {
             name: "Newsact",
-            icon: "fa-solid fa-list-check",
+            icon: "fa-solid fa-wand-magic-sparkles",
             description:
                 " ",
         },
         {
             name: "Chatster",
-            icon: "fa-solid fa-diagram-project",
+            icon: "fa-solid fa-envelope",
             description:
                 "",
         },
@@ -64,7 +64,7 @@
                 <div
                     class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
                 />
-                <h4 class="relative z-9">Get in touch &rarr;</h4>
+                <h4 class="relative z-9" id="contact">Get in touch &rarr;</h4>
             </button>
         </div>
         
@@ -78,8 +78,8 @@
             </div>
 
             <img
-                src={"images/zetane-engine.jpeg"}
-                alt="Zetane Engine"
+                src={""}
+                alt=""
                 class="w-full h-full object-cover z-[2]"
             />
         </div> -->
@@ -90,7 +90,7 @@
                 Here are some of my projects
             </h6>
             <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-                Please look into some of <span class="poppins text-violet-400"><a href="https://github.com/AliSinaDevelo">my work</a></span> 
+                Look into some of <span class="poppins text-violet-400"><a href="https://github.com/AliSinaDevelo">my work</a></span> 
             </h3>
         </div>
         
