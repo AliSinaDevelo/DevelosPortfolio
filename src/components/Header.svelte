@@ -4,8 +4,8 @@
     export let tabs = [
         { name: "Projects ", link: "#projects" },
         { name: "About me", link: "#about" },
-        // { name: "Blog (coming soon)", link: "" },
-        { name: "Curriculum Vitae", link: "../../static/assets/cv/CurriculumVitae.pdf" }, // TODO: Create CV
+        { name: "Blog (coming soon)", link: "" },
+        { name: "Curriculum Vitae", link: "../../static/assets/cv/output/CurriculumVitae.pdf" }, // TODO: Create CV
         // {name: '', link: ''},
     ];
 </script>
