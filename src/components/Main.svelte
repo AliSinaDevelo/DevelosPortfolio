@@ -34,11 +34,11 @@
             description:
                 "",
         },
-        /*{
-            name: "",
+        {
+            name: "Research Aspirations",
             description:
                 "",
-        },*/
+        },
     ];
 </script>
 
