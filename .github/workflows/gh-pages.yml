@@ -15,10 +15,12 @@ jobs:
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
-        
+        with:
+          node-version: '22.x'
 
       - name: Install dependencies
         run: npm install
+
 
       - name: Build project
         run: npm run build
