@@ -23,22 +23,22 @@
     ];
 
     let benefits = [
-        {
-            metric: "10x",
-            name: "Summary",
-            description:
-                "",
-        },
-        {
-            name: "My Interests",
-            description:
-                "",
-        },
-        {
-            name: "Research Aspirations",
-            description:
-                "",
-        },
+    {
+        metric: "10x",
+        name: "Summary",
+        description:
+            "As a software developer and aspiring computer scientist, I am driven by a deep passion for both the theoretical and practical aspects of technology. My enthusiasm lies in areas such as AI, automated reasoning, soft computing, and natural language processing (NLP). I thrive on the challenge of pushing technological boundaries through research and innovation. In my free time, I enjoy playing the violin, which adds a creative balance to my technical pursuits. I also actively contribute to open-source projects, continually learning and working to shape the future of intelligent systems by merging theory with practice."
+    },
+    {
+        name: "My Interests",
+        description:
+            "Artificial Intelligence (AI): Passionate about exploring cutting-edge advancements and contributing to the creation of smarter, more efficient systems. Automated Reasoning: Fascinated by the potential of machines to autonomously reason and make decisions. Soft Computing: Interested in approaches that mimic human reasoning to solve complex, real-world problems. Natural Language Processing (NLP): Enthusiastic about improving how machines understand and process human language. Engineering and Technology: Driven by the challenge of designing and developing innovative engineering solutions and advancing technological progress."
+    },
+    {
+        name: "Research Aspirations",
+        description:
+            "I aspire to delve deeper into the intersection of AI and human cognition, aiming to develop systems that can learn, adapt, and reason more effectively. My research goals include: Advancing AI Algorithms: Enhancing the capabilities of AI through innovative algorithms that push the limits of current technology. Improving NLP: Creating more intuitive and efficient methods for machines to understand and generate human language. Exploring Hybrid Systems: Combining soft computing techniques with traditional AI to solve complex, ambiguous problems. Contributing to Open-Source Projects: Collaborating with the global developer community to share knowledge and drive technological progress."
+    }
     ];
 </script>
 
