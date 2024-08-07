@@ -5,7 +5,10 @@ export default defineConfig({
 	plugins: [sveltekit()],
 	server: {
 		fs: {
-			allow: ['static/assets/cv/output'],
+			allow: [
+				'static/assets/cv/output',
+				'static/assets/favicon',
+			],
 		},
 	},
 });

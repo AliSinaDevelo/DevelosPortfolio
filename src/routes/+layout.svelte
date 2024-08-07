@@ -9,6 +9,17 @@
   function goTop() {
       document.body.scrollIntoView();
   }
+
+  import { onMount } from 'svelte';
+  onMount(() => {
+    const link = document.createElement('link');
+    link.rel = 'icon';
+    link.href = '/assets/favicon.png';
+    link.type = 'image/png';
+    document.head.appendChild(link);
+  });
+
+  
 </script>
 
 <div
