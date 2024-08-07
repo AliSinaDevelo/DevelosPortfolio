@@ -9,7 +9,7 @@ const config = {
     adapter: adapter({
       pages: 'build',
       assets: 'build',
-      fallback: '.html', // Specify the fallback file
+      fallback: 'index.html', // Specify the fallback file
       precompress: false,
       strict: true
     }),
