@@ -5,7 +5,7 @@
         { name: "Projects ", link: "#projects" },
         { name: "About me", link: "#about" },
         { name: "Blog (coming soon)", link: "" },
-        { name: "Curriculum Vitae", link: "../../static/assets/cv/output/CurriculumVitae.pdf" }, // TODO: Create CV
+        { name: "Curriculum Vitae", link: "../../../assets/cv/output/CurriculumVitae.pdf" }, // TODO: Create CV
         // {name: '', link: ''},
     ];
 </script>
